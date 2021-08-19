@@ -219,7 +219,7 @@
             }
       }
     }
-
+//Comments from branch ChangesJS
     var GuardarPrimerValor = function (pantalla) {
       if (operacion.Resultado != "") {
         operacion.Num1 = operacion.Resultado;
