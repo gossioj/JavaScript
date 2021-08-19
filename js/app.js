@@ -1,4 +1,5 @@
 
+  //New comment
   var Calculadora = (function inicialización()
   {
     var operacion = {
